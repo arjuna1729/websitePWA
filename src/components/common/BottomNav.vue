@@ -6,7 +6,7 @@
       app
       color="white"
       class="elevation-2"
-      
+
     >
       <v-btn
         color="#518FF5"
@@ -52,9 +52,9 @@
         <v-icon>toc</v-icon>
       </v-btn>
 
-      
 
-      <!-- <v-btn
+
+      <v-btn
         color="#518FF5"
         flat
         value="contact"
@@ -63,7 +63,7 @@
       >
         <span>Contant</span>
         <v-icon>person</v-icon>
-      </v-btn> -->
+      </v-btn>
 
     </v-bottom-nav>
   </v-card>

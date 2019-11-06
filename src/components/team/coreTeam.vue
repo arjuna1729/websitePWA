@@ -29,8 +29,8 @@
                         <v-icon small style="color:#1da1f2">fab fa-twitter</v-icon>
                     </v-btn>
 
-                    <v-btn class="mt-0 mx-0" icon v-if="(item.linkedin).length>0" :href="item.linkedin" target="_blank">
-                        <v-icon small style="color:#0077b5">fab fa-linkedin-in</v-icon>
+                    <v-btn class="mt-0 mx-0" icon v-if="(item.instagram).length>0" :href="item.instagram" target="_blank">
+                        <v-icon small style="color:#0077b5">fab fa-instagram</v-icon>
                     </v-btn>
 
                     <v-btn class="mt-0 mx-0" icon v-if="(item.github).length>0" :href="item.github" target="_blank">
