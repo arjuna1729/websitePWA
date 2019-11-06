@@ -89,19 +89,19 @@
         "website":""
     },
     {
-        "name":"Gaurav Bharti",
-        "designation":"Photographer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "instagram":"https://www.instagram.com/vrijraj",
+        "name":"Gaurav Bhati ",
+        "designation":"PhotoGrapher",
+        "twitter":"https://twitter.com/GauravB1602 ",
+        "instagram":"https://www.instagram.com/_insta_gaurav_",
         "github":"",
-        "profileImage":"http://dsccgc.herokuapp.com/images/resource/gaurav.jpg",
+        "profileImage":"https://instagram.fixc1-2.fna.fbcdn.net/vp/4b53276e26895306590a2e634f44307e/5E46FFE9/t51.2885-15/sh0.08/e35/s640x640/61845861_2279302212178057_1542604991062389621_n.jpg?_nc_ht=instagram.fixc1-2.fna.fbcdn.net&amp;_nc_cat=101 640w",
         "website":""
     },
     {
         "name":"Prince ",
         "designation":"Creative & Digital Media",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "instagram":"https://www.instagram.com/vrijraj",
+        "twitter":"https://www.twitter.com/pseprince",
+        "instagram":"http://www.instagram.com/pseprince",
         "github":"",
         "profileImage":"http://dsccgc.herokuapp.com/images/resource/prince.jpg",
         "website":""
@@ -109,8 +109,8 @@
     {
         "name":"Ravi",
         "designation":"Photographer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "instagram":"https://www.instagram.com/vrijraj",
+        "twitter":"https://twitter.com/ravii_rana",
+        "instagram":"https://www.instagram.com/ravii.rana",
         "github":"",
         "profileImage":"http://dsccgc.herokuapp.com/images/resource/ravi.jpg",
         "website":""
@@ -127,8 +127,8 @@
     {
         "name":"Shubham",
         "designation":"Flutter",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "instagram":"https://www.instagram.com/vrijraj",
+        "twitter":"https://twitter.com/shubhkk07",
+        "instagram":"https://www.instagram.com/shubhkk07",
         "github":"",
         "profileImage":"http://dsccgc.herokuapp.com/images/resource/shubham.jpg",
         "website":""
@@ -153,7 +153,7 @@
     },
     {
         "name":"Sahil Dhiman ",
-        "designation":"Sponsorship",
+        "designation":"Backend",
         "twitter":"https://twitter.com/i_sahil7",
         "instagram":"https://www.instagram.com/sahildhiman_/",
         "github":"",
@@ -162,7 +162,7 @@
     },
     {
         "name":"Anmol Chawla ",
-        "designation":"Sponsorship",
+        "designation":"Content Writer",
         "twitter":"https://twitter.com/AnmolCh9510292",
         "instagram":"https://www.instagram.com/marquise__one",
         "github":"",
@@ -171,34 +171,25 @@
     },
     {
         "name":"Akansha Goel ",
-        "designation":"Sponsorship",
+        "designation":"Content Writer",
         "twitter":"https://twitter.com/Akansha56363473",
         "instagram":"https://www.instagram.com/akanshagoel768",
         "github":"",
-        "profileImage":"https://instagram.fixc1-3.fna.fbcdn.net/vp/3082ba2471996f22e23910448337a6a0/5E4B7535/t51.2885-19/s320x320/69828032_632718743917753_1218966784380502016_n.jpg?_nc_ht=instagram.fixc1-3.fna.fbcdn.net",
+        "profileImage":"http://dsccgc.herokuapp.com/images/resource/akansha.jpg",
         "website":""
     },
     {
         "name":"Ankur",
-        "designation":"Sponsorship",
+        "designation":"Android",
         "twitter":"https://twitter.com/AnkurSawhney4",
         "instagram":"https://www.instagram.com/ankursawhney_",
         "github":"",
-        "profileImage":"https://instagram.fixc1-3.fna.fbcdn.net/vp/3082ba2471996f22e23910448337a6a0/5E4B7535/t51.2885-19/s320x320/69828032_632718743917753_1218966784380502016_n.jpg?_nc_ht=instagram.fixc1-3.fna.fbcdn.net",
-        "website":""
-    },
-    {
-        "name":"Gaurav Bhati ",
-        "designation":"PhotoGrapher",
-        "twitter":"https://twitter.com/GauravB1602 ",
-        "instagram":"https://www.instagram.com/_insta_gaurav_",
-        "github":"",
-        "profileImage":"https://instagram.fixc1-2.fna.fbcdn.net/vp/4b53276e26895306590a2e634f44307e/5E46FFE9/t51.2885-15/sh0.08/e35/s640x640/61845861_2279302212178057_1542604991062389621_n.jpg?_nc_ht=instagram.fixc1-2.fna.fbcdn.net&amp;_nc_cat=101 640w",
+        "profileImage":"http://dsccgc.herokuapp.com/images/resource/ankur.jpeg",
         "website":""
     },
     {
         "name":"KP Singh",
-        "designation":"Sponsorship",
+        "designation":"AI/ML",
         "twitter":"https://twitter.com/kpsingh_13",
         "instagram":"https://www.instagram.com/kp.singh13",
         "github":"",
@@ -221,6 +212,33 @@
         "instagram":"https://www.instagram.com/flexncode",
         "github":"",
         "profileImage":"https://instagram.fixc1-3.fna.fbcdn.net/vp/4fef3abfeb22629f3b6e278156c14c78/5E3ED401/t51.2885-19/s320x320/70894588_390042411871856_5853947481355714560_n.jpg?_nc_ht=instagram.fixc1-3.fna.fbcdn.net",
+        "website":""
+    },
+    {
+        "name":"Ankita Verma",
+        "designation":"Sponsorship",
+        "twitter":"https://twitter.com/AnkitaV02508932",
+        "instagram":"https://www.instagram.com/____ankita27verma/",
+        "github":"",
+        "profileImage":"https://instagram.fixc1-3.fna.fbcdn.net/vp/ae16e0fb0318ce29abb5456a42f9d17e/5E5F1DAF/t51.2885-19/s320x320/56770800_2193058480753324_1386109813276016640_n.jpg?_nc_ht=instagram.fixc1-3.fna.fbcdn.net",
+        "website":""
+    },
+    {
+        "name":"Jagriti",
+        "designation":"Sponsorship",
+        "twitter":"https://twitter.com/Jagrati87016003",
+        "instagram":"",
+        "github":"",
+        "profileImage":"https://pbs.twimg.com/profile_images/1182345584172130304/EwPGSgZ1_400x400.jpg",
+        "website":""
+    },
+    {
+        "name":"Ashkanda Sharma",
+        "designation":"Sponsorship",
+        "twitter":"https://twitter.com/AshkandaS",
+        "instagram":"https://www.instagram.com/_ashkandasharma/",
+        "github":"",
+        "profileImage":"https://instagram.fixc1-2.fna.fbcdn.net/vp/e4af4c41718d3a262e9968f80d0b35ea/5E47C1B6/t51.2885-15/sh0.08/e35/p750x750/64537482_421418152035429_1715833394929766975_n.jpg?_nc_ht=instagram.fixc1-2.fna.fbcdn.net&amp;_nc_cat=109 750w",
         "website":""
     }
 ]
