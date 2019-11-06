@@ -1,7 +1,9 @@
 <template>
   <v-app class="white">
 
-    <v-snackbar
+    <!-- <v-snackbar
+
+// Refresh Page
         v-model="snackWithButtons"
         :timeout="timeout"
         bottom
@@ -24,13 +26,13 @@
         >
           <v-icon>close</v-icon>
         </v-btn>
-    </v-snackbar>
+    </v-snackbar> -->
 
 
     <CoreToolbar/>
     <CoreDrawer/>
     <CoreView/>
-    
+
     <CoreFooter/>
     <BottomNav/>
   </v-app>
@@ -70,7 +72,7 @@ export default {
     navigator.serviceWorker.addEventListener('controllerchange', () => {
       if (this.refreshing) return;
         this.refreshing = true;
-      window.location.reload();
+      ;
     });
   },
   methods:{
@@ -86,9 +88,9 @@ export default {
       this.registration.waiting.postMessage('skipWaiting');
     },
   }
-  
 
-  
+
+
 }
 </script>
 
