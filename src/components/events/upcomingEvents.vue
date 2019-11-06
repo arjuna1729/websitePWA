@@ -110,7 +110,7 @@
 
       <v-flex xs12 v-if="notFoundUpcomingEventFlag==true">
         <p class="google-font px-2" style="font-size:140%">
-          <v-icon>highlight_off</v-icon>Upcoming Events Not Found!
+          <v-icon>highlight_off</v-icon>No Upcoming Events!.
         </p>
       </v-flex>
     </v-layout>
@@ -186,7 +186,7 @@
 
       <v-flex xs12 v-if="notFoundUpcomingEventFlag==true">
         <p class="google-font px-2" style="font-size:140%">
-          <v-icon>highlight_off</v-icon>Upcoming Events Not Found!
+          <v-icon>highlight_off</v-icon>No Upcoming Events!.
         </p>
       </v-flex>
     </v-layout>
@@ -229,7 +229,7 @@ export default {
       .catch(e => {
         this.showLoader = false;
         this.errorMsg = "Issue found with " + e;
-        this.errorAlert = true;
+        this.errorAlert = false;
         this.notFoundUpcomingEventFlag = true;
       });
   },

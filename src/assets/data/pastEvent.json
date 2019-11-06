@@ -1,56 +1,32 @@
 [
     {
+        "name":"Machine Learning Workshop",
+        "local_date":"10 October,2019",
+        "local_time":"02:00 PM - 4:30 PM (IST)",
+        "link":"https://twitter.com/dsccgc/status/1182293654565572613?s=19"
+    },
+    {
+        "name":"A Workshop on Actions of Google",
+        "local_date":"02 October,2019",
+        "local_time":"02:00 PM - 4:30 PM (IST)",
+        "link":"https://twitter.com/dsccgc/status/1179393038398971905?s=19"
+    },
+    {
+        "name":"DEVFEST Punjab.",
+        "local_date":"28 September,2019",
+        "local_time":"09:00 AM - 05:30 PM (IST)",
+        "link":"https://devfest-punjab.web.app/"
+    },
+    {
+        "name":"Intensive Worksop on Cloud.",
+        "local_date":"23 September,2019",
+        "local_time":"10:00 AM - 04:00 PM (IST)",
+        "link":"https://medium.com/dsc-cgc/the-onset-of-dsc-cgc-with-cloud-day-workshop-1a6192ee41e"
+    },
+    {
         "name":"Inauguration of DSCCGC.",
         "local_date":"August,2019",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "local_time":"10:00 AM - 04:40 PM (IST)",
+        "link":"https://medium.com/dsc-cgc/the-onset-of-dsc-cgc-with-cloud-day-workshop-1a6192ee41e"
     }
 ]

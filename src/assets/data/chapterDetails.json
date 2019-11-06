@@ -4,6 +4,7 @@
     "ChapterLongDec":"DSC is a Versatile Club organized by Google Developers. As the name sound Developer Student Club, it help in overall development of students. This technical club encourages the students and help them to develop their skills in every aspect. This club brings out the extraordinary talent among the students involved in DSC. It is an intended platform for the student to learn, grow and prepare them for their bright future.",
     "ChapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
     "ChapterEmail":"dsc.cgc.coe@gmail.com",
+    "forumLink":"https://forum.dsccgc.in/",
     "website":"https://www.dsccgc.in/",
     "GDGProgramWebsite":"https://developers.google.com/community/dsc",
     "ChapterHashTags":["DSCCGC","DSC","CGC","DSC CGC"],
@@ -14,19 +15,29 @@
             "icon" : "fab fa-facebook"
         },
         {
-            "name" : "Google Plus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fab fa-google-plus"
-        },
-        {
             "name" : "Twitter",
             "link" : "https://twitter.com/dsccgc",
             "icon" : "fab fa-twitter"
         },
         {
-            "name" : "Meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
-            "icon" : "fab fa-meetup"
+            "name" : "Instagram",
+            "link" : "https:/instagram.com/dsccgc",
+            "icon" : "fab fa-instagram"
+        },
+        {
+            "name" : "Telegram",
+            "link" : "https://t.me/dsccgc",
+            "icon" : "fab fa-telegram"
+        },
+        {
+            "name" : "Slack",
+            "link" : "bit.ly/dsccgc-slack",
+            "icon" : "fab fa-slack"
+        },
+        {
+            "name" : "Forum",
+            "link" : "https://forum.dsccgc.in/",
+            "icon" : "language"
         }
     ]
 }

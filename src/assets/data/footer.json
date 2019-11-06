@@ -49,6 +49,32 @@
             "Link" : "https://console.firebase.google.com/"
         }
     ],
+    "Connect":[
+        {
+            "LinkName" : "Facebook",
+            "Link" : "https://www.facebook.com/dsccgc"
+        },
+        {
+            "LinkName" : "Instagram",
+            "Link" : "https://www.instagram.com/dsccgc/"
+        },
+        {
+            "LinkName" : "Telegram",
+            "Link" : "https://t.me/dsccgc"
+        },
+        {
+            "LinkName" : "Twitter",
+            "Link" : "https://twitter.com/dsccgc"
+        },
+        {
+            "LinkName" : "Forum",
+            "Link" : "https://forum.dsccgc.in/"
+        },
+        {
+            "LinkName" : "Slack",
+            "Link" : "bit.ly/dsccgc-slack"
+        }
+    ],
     "FooterEndSession":[
         {
             "LinkName" : "Code of Conduct",
@@ -57,6 +83,14 @@
         {
             "LinkName" : "Terms & Servies",
             "Link" : "https://docs.google.com/document/d/14g3fv9NItiB8Hd-YGYyVYd2N4LRxe6Bx3syWse_wsiA/edit?usp=sharing"
+        },
+        {
+            "LinkName" : "Based On Aura Project ",
+            "Link" : "https://github.com/gdg-x/aura"
+        },
+        {
+            "LinkName" : "Developed by Mohit Gupta",
+            "Link" : "https://guptamohit004.github.io/"
         }
     ]
 }

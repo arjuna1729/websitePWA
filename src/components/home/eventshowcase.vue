@@ -100,7 +100,7 @@
 
       <v-flex xs12 v-if="notFoundEventFlag==true" class="text-xs-center">
         <p class="google-font px-2" style="font-size:140%">
-          <v-icon>highlight_off</v-icon>Events Not Found!
+          <v-icon>highlight_off</v-icon>No Upcoming Events.
         </p>
       </v-flex>
     </v-layout>
@@ -217,7 +217,7 @@ export default {
       .catch(e => {
         this.showLoader = false;
         this.errorMsg = "Issue found with " + e;
-        this.errorAlert = true;
+        this.errorAlert = false;
         this.notFoundEventFlag = true;
       });
   },
