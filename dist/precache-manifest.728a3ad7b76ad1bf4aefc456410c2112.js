@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/img/tf.d192dc79.svg"
   },
   {
-    "revision": "8a50435f9af90132f255eb24018c68dc",
-    "url": "/img/fav/favicon-72.png"
+    "revision": "a9509ca258731e12d52dd223ad1ba4c8",
+    "url": "/img/fav/favicon-32 (1).png"
   },
   {
     "revision": "0229df0933f2c59de929cb6bd2bdfcc3",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/img/bg.7ef974da.svg"
   },
   {
-    "revision": "a9509ca258731e12d52dd223ad1ba4c8",
-    "url": "/img/fav/favicon-32 (1).png"
+    "revision": "8a50435f9af90132f255eb24018c68dc",
+    "url": "/img/fav/favicon-72.png"
   },
   {
     "revision": "a08998b89d45967969e23d5b14f8b8ed",
