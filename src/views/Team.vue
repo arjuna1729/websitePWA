@@ -29,21 +29,25 @@
       </v-layout>
     </v-container>
 
-   
+    <CoreFooter/>
+
 
 
   </v-content>
-  
+
 </template>
 
 <script>
 import TeamDetails from '@/assets/data/chapterDetails.json'
 import coreTeam from '@/components/team/coreTeam'
 import organizingTeam from '@/components/team/organizingTeam'
+import CoreFooter from '@/components/common/Footer'
   export default {
     components: {
       coreTeam,
-      organizingTeam
+      organizingTeam,
+      CoreFooter
+
     },
     data() {
       return {

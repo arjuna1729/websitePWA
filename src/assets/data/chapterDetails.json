@@ -4,7 +4,7 @@
     "ChapterLongDec":"DSC is a Versatile Club organized by Google Developers. As the name sound Developer Student Club, it help in overall development of students. This technical club encourages the students and help them to develop their skills in every aspect. This club brings out the extraordinary talent among the students involved in DSC. It is an intended platform for the student to learn, grow and prepare them for their bright future.",
     "ChapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
     "ChapterEmail":"dsc.cgc.coe@gmail.com",
-    "forumLink":"https://forum.dsccgc.in/",
+    "forumLink":"/forum",
     "website":"https://www.dsccgc.in/",
     "GDGProgramWebsite":"https://developers.google.com/community/dsc",
     "ChapterHashTags":["DSCCGC","DSC","CGC","DSC CGC"],
@@ -36,7 +36,7 @@
         },
         {
             "name" : "Forum",
-            "link" : "https://forum.dsccgc.in/",
+            "link" : "/forum",
             "icon" : "language"
         }
     ]

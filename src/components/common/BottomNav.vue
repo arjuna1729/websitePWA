@@ -54,15 +54,26 @@
 
 
 
-      <v-btn
+      <!-- <v-btn
         color="#518FF5"
         flat
         value="contact"
         router
         to="/contact"
       >
-        <span>Contant</span>
+        <span>Contact</span>
         <v-icon>person</v-icon>
+      </v-btn> -->
+
+            <v-btn
+        color="#518FF5"
+        flat
+        value="Forum"
+        router
+        to="/forum"
+      >
+        <span>Forum</span>
+        <v-icon>language</v-icon>
       </v-btn>
 
     </v-bottom-nav>

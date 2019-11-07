@@ -26,18 +26,21 @@
       </v-layout>
     </v-container>
 
+   <CoreFooter/>
   </v-content>
-  
+
 </template>
 
 <script>
 import ChapterDetails from '@/assets/data/chapterDetails.json'
 import upcommingEvents from '@/components/events/upcomingEvents'
 import pastEvents from '@/components/events/pastEvents'
+import CoreFooter from '@/components/common/Footer'
   export default {
     components: {
       upcommingEvents,
-      pastEvents
+      pastEvents,
+      CoreFooter
     },
     data() {
       return {

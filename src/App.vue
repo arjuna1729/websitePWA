@@ -33,7 +33,6 @@
     <CoreDrawer/>
     <CoreView/>
 
-    <CoreFooter/>
     <BottomNav/>
   </v-app>
 </template>
@@ -41,7 +40,6 @@
 <script>
 import CoreDrawer from '@/components/common/Drawer'
 import CoreToolbar from '@/components/common/Toolbar'
-import CoreFooter from '@/components/common/Footer'
 import CoreView from '@/components/common/View'
 import BottomNav from '@/components/common/BottomNav'
 
@@ -50,7 +48,6 @@ export default {
   components: {
     CoreDrawer,
     CoreToolbar,
-    CoreFooter,
     CoreView,
     BottomNav
   },
@@ -72,7 +69,6 @@ export default {
     navigator.serviceWorker.addEventListener('controllerchange', () => {
       if (this.refreshing) return;
         this.refreshing = true;
-      ;
     });
   },
   methods:{

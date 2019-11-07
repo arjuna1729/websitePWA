@@ -7,8 +7,8 @@
                 <p class="google-font mt-0" style="font-size:120%">If you’re interested in being showcased throughout <b>{{chapterDetails.ChapterName}}</b>, contact <a style="color:#1565C0;text-decoration: none;" :href="`mailto:${chapterDetails.ChapterEmail}`">{{chapterDetails.ChapterEmail}}</a> to discuss sponsorship opportunities.</p>
             </v-flex>
 
-       
-            <v-flex xs12 md12 class="mt-3">
+
+            <!-- <v-flex xs12 md12 class="mt-3">
                 <p class="google-font my-2" style="font-size:110%">Template Partner</p>
 
                 <v-layout class="transparent" >
@@ -57,7 +57,7 @@
                     </v-flex>
                 </v-layout>
 
-            </v-flex>
+            </v-flex> -->
         </v-layout>
     </v-container>
 </template>
