@@ -79,7 +79,7 @@
               </p>
               <p class="google-font mt-0 mb-0" style="font-size:110%">
                 <v-icon small>map</v-icon>
-                {{item.venue.name | summery(30)}}
+                {{item.venue | summery(30)}}
               </p>
             </div>
           </v-card-title>
@@ -184,7 +184,7 @@
 
 <script>
 import ChapterDetails from "@/assets/data/chapterDetails.json";
-import { MeetupAPI } from "@/config/key";
+import eventsData from '@/assets/data/upcomingEvent.json'
 export default {
   data() {
     return {
@@ -198,28 +198,16 @@ export default {
     };
   },
   created() {
-    fetch(
-      "https://cors-anywhere.herokuapp.com/https://api.meetup.com/" +
-        MeetupAPI.urlname +
-        "/events?desc=true&photo-host=public&sign=true&page=4&status=past"
-    )
-      .then(data => data.json())
-      .then(res => {
-        if (res.length > 0) {
+      if(eventsData.length>0)
+      {
           this.showLoader = false;
           this.showData = true;
-          this.eventsData = res;
-        } else {
-          this.notFoundEventFlag = true;
+          this.eventsData = eventsData;
+      }
+      else{
           this.showLoader = false;
-        }
-      })
-      .catch(e => {
-        this.showLoader = false;
-        this.errorMsg = "Issue found with " + e;
-        this.errorAlert = false;
-        this.notFoundEventFlag = true;
-      });
+          this.notFoundEventFlag = true;
+      }
   },
   methods: {
     getCharString(data) {
