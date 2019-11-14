@@ -6,7 +6,7 @@
         },
         {
             "LinkName":"Google Developers Groups",
-            "Link":"https://developers.google.com/programs/community/gdg/"
+            "Link":"https://developers.google.com/programs/community/dsc/"
         },
         {
             "LinkName":"WomenTechamkers",
@@ -20,11 +20,11 @@
     "ChapterResourcesSession":[
         {
             "LinkName" : "Become a Sponsor",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:dsc.cgc.coe@gmail.com"
         },
         {
             "LinkName" : "Call for Speaker",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:dsc.cgc.coe@gmail.com"
         },
         {
             "LinkName" : "Media Kit",
@@ -65,10 +65,6 @@
         {
             "LinkName" : "Twitter",
             "Link" : "https://twitter.com/dsccgc"
-        },
-        {
-            "LinkName" : "Forum",
-            "Link" : "https://forum.dsccgc.in/"
         },
         {
             "LinkName" : "Slack",

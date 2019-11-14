@@ -21,7 +21,7 @@
         "designation": "DSC LEAD",
         "twitter": "https://twitter.com/nandkk05",
         "instagram": "https://www.instagram.com/nandkk05/",
-        "github": "",
+        "github": "https://www.github.com/nandkk05/",
         "profileImage": "https://scontent.fixc1-3.fna.fbcdn.net/v/t1.0-9/71271730_1547959188680268_3042438159699804160_n.jpg?_nc_cat=104&_nc_oc=AQl5uIYaRZkE1YDlJP-ylxyw--afCowCZtYJv827DRGYzk2C3RJV4TqbDRZwjGA4Jos&_nc_ht=scontent.fixc1-3.fna&oh=ef6566e49cd02b5484eb704f9e339b4a&oe=5E4509F1",
         "website": ""
     },
@@ -79,17 +79,8 @@
         "website": ""
     },
     {
-        "name": "Nisha",
-        "designation": "Management",
-        "twitter": "",
-        "instagram": "https://www.instagram.com/vrijraj",
-        "github": "",
-        "profileImage": "http://dsccgc.herokuapp.com/images/resource/nisha.png",
-        "website": ""
-    },
-    {
         "name": "Gaurav Bhati ",
-        "designation": "PhotoGrapher",
+        "designation": "Photographer",
         "twitter": "https://twitter.com/GauravB1602 ",
         "instagram": "https://www.instagram.com/_insta_gaurav_",
         "github": "",
@@ -107,7 +98,7 @@
     },
     {
         "name": "Ravi",
-        "designation": "Photographer",
+        "designation": "ML Facilitator",
         "twitter": "https://twitter.com/ravii_rana",
         "instagram": "https://www.instagram.com/ravii.rana",
         "github": "",
@@ -197,7 +188,7 @@
     },
     {
         "name": "Naman Gupta",
-        "designation": "Sponsorship",
+        "designation": "Content Writer",
         "twitter": "https://twitter.com/namanguptaa_",
         "instagram": "https://www.instagram.com/namanguptaa_",
         "github": "",
@@ -215,7 +206,7 @@
     },
     {
         "name": "Ankita Verma",
-        "designation": "Sponsorship",
+        "designation": "Content Writer",
         "twitter": "https://twitter.com/AnkitaV02508932",
         "instagram": "https://www.instagram.com/____ankita27verma/",
         "github": "",
@@ -224,7 +215,7 @@
     },
     {
         "name": "Jagriti",
-        "designation": "Sponsorship",
+        "designation": "Content Writer",
         "twitter": "https://twitter.com/Jagrati87016003",
         "instagram": "",
         "github": "",
@@ -233,7 +224,7 @@
     },
     {
         "name": "Ashkanda Sharma",
-        "designation": "Sponsorship",
+        "designation": "Content Writer",
         "twitter": "https://twitter.com/AshkandaS",
         "instagram": "https://www.instagram.com/_ashkandasharma/",
         "github": "",
