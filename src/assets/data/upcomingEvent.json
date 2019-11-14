@@ -1,9 +1,25 @@
-[{
-    "name": "Flutter Interact Extended",
-    "local_date": "23 December, 2019",
-    "local_time": "10:00 AM - 01:00 PM (IST)",
-    "link": "https://bit.ly/cgc-flutter",
-    "description": "Flutter Interact Extended",
-    "venue": "Chandigarh Group of Colleges, Kharar Banur Hwy, Sector 112, Sahibzada Ajit Singh Nagar, Punjab 140307",
-    "summary": "Flutter Interact Extended"
-}]
+[
+{
+    "FeatureEventName":"Flutter Interact Extended",
+    "EventImage":"https://developers.google.com/events/flutter-interact/images/flutter-interact-social.png",
+    "EventDate":{
+        "Date":"23",
+        "Month":"11",
+        "Year":"2019"
+    },
+    "EventTime":{
+        "StartTime":"10:00 AM",
+        "EndTime":"01:00 PM"
+    },
+    "EventVenue":"Chandigarh Group of Colleges, Kharar Banur Hwy, Sector 112, Sahibzada Ajit Singh Nagar, Punjab 140307",
+    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
+    "EventWebsite":"https://developers.google.com/events/flutter-interact",
+    "EventDescription":"We’re hosting a viewing party for Flutter Interact, and we’d love for you to be part of the celebration!",
+    "MeetupLink":"",
+    "RegistrationLink":"bit.ly/cgc-flutter",
+    "FBEventPageURL":"https://www.instagram.com/dsccgc",
+    "TwitterURL":"https://twitter.com/dsccgc/"
+
+}
+
+]
