@@ -1,43 +1,42 @@
 {
-    "ChapterName":"DSC CGC",
-    "ChapterShortDescription":"Google collaborates with university students who are passionate about growing developer communities and support them with starting student clubs on their campuses.",
-    "ChapterLongDec":"DSC is a Versatile Club organized by Google Developers. As the name sound Developer Student Club, it help in overall development of students. This technical club encourages the students and help them to develop their skills in every aspect. This club brings out the extraordinary talent among the students involved in DSC. It is an intended platform for the student to learn, grow and prepare them for their bright future.",
-    "ChapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
-    "ChapterEmail":"dsc.cgc.coe@gmail.com",
-    "forumLink":"/forum",
-    "website":"https://www.dsccgc.in/",
-    "GDGProgramWebsite":"https://developers.google.com/community/dsc",
-    "ChapterHashTags":["DSCCGC","DSC","CGC","DSC CGC"],
-    "socialLinks":[
-        {
-            "name" : "Facebook",
-            "link" : "https://www.facebook.com/dsccgc",
-            "icon" : "fab fa-facebook"
+    "ChapterName": "DSC CGC",
+    "ChapterShortDescription": "Google collaborates with university students who are passionate about growing developer communities and support them with starting student clubs on their campuses.",
+    "ChapterLongDec": "DSC is a Versatile Club organized by Google Developers. As the name sound Developer Student Club, it help in overall development of students. This technical club encourages the students and help them to develop their skills in every aspect. This club brings out the extraordinary talent among the students involved in DSC. It is an intended platform for the student to learn, grow and prepare them for their bright future.",
+    "ChapterMeetupLink": "https://t.me/dsccgc",
+    "ChapterEmail": "dsc.cgc.coe@gmail.com",
+    "forumLink": "/forum",
+    "website": "https://www.dsccgc.in/",
+    "GDGProgramWebsite": "https://developers.google.com/community/dsc",
+    "ChapterHashTags": ["DSCCGC", "DSC", "CGC", "DSC CGC"],
+    "socialLinks": [{
+            "name": "Facebook",
+            "link": "https://www.facebook.com/dsccgc",
+            "icon": "fab fa-facebook"
         },
         {
-            "name" : "Twitter",
-            "link" : "https://twitter.com/dsccgc",
-            "icon" : "fab fa-twitter"
+            "name": "Twitter",
+            "link": "https://twitter.com/dsccgc",
+            "icon": "fab fa-twitter"
         },
         {
-            "name" : "Instagram",
-            "link" : "https:/instagram.com/dsccgc",
-            "icon" : "fab fa-instagram"
+            "name": "Instagram",
+            "link": "https:/instagram.com/dsccgc",
+            "icon": "fab fa-instagram"
         },
         {
-            "name" : "Telegram",
-            "link" : "https://t.me/dsccgc",
-            "icon" : "fab fa-telegram"
+            "name": "Telegram",
+            "link": "https://t.me/dsccgc",
+            "icon": "fab fa-telegram"
         },
         {
-            "name" : "Slack",
-            "link" : "bit.ly/dsccgc-slack",
-            "icon" : "fab fa-slack"
+            "name": "Slack",
+            "link": "bit.ly/dsccgc-slack",
+            "icon": "fab fa-slack"
         },
         {
-            "name" : "Forum",
-            "link" : "/forum",
-            "icon" : "language"
+            "name": "Forum",
+            "link": "/forum",
+            "icon": "language"
         }
     ]
 }
