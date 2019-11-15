@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div id="editor" ref="editor">DSCCGC Forum</div>
+    <div id="editor" ref="editor">Loading, DSC CGC Forum.</div>
     <div
       id="iframe-wrapper"
       :style="iframe.wrapperStyle"
