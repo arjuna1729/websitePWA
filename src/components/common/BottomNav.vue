@@ -30,6 +30,17 @@
         <v-icon>rounded_corner</v-icon>
       </v-btn>
 
+            <v-btn
+        color="#518FF5"
+        flat
+        value="Forum"
+        router
+        to="/forum"
+      >
+        <span>Forum</span>
+        <v-icon>language</v-icon>
+      </v-btn>
+
       <v-btn
         color="#518FF5"
         flat
@@ -65,16 +76,6 @@
         <v-icon>person</v-icon>
       </v-btn> -->
 
-            <v-btn
-        color="#518FF5"
-        flat
-        value="Forum"
-        router
-        to="/forum"
-      >
-        <span>Forum</span>
-        <v-icon>language</v-icon>
-      </v-btn>
 
     </v-bottom-nav>
   </v-card>
