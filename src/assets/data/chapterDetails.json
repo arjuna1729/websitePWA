@@ -27,16 +27,6 @@
             "name": "Telegram",
             "link": "https://t.me/dsccgc",
             "icon": "fab fa-telegram"
-        },
-        {
-            "name": "Slack",
-            "link": "bit.ly/dsccgc-slack",
-            "icon": "fab fa-slack"
-        },
-        {
-            "name": "Forum",
-            "link": "/forum",
-            "icon": "language"
         }
     ]
 }

@@ -57,10 +57,6 @@
         {
             "LinkName": "Twitter",
             "Link": "https://twitter.com/dsccgc"
-        },
-        {
-            "LinkName": "Slack",
-            "Link": "bit.ly/dsccgc-slack"
         }
     ],
     "FooterEndSession": [{
