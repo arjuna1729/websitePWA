@@ -27,6 +27,11 @@
             "name": "Telegram",
             "link": "https://t.me/dsccgc",
             "icon": "fab fa-telegram"
+        },
+        {
+            "name": "Medium",
+            "link": "https://medium.com/dsc-cgc",
+            "icon": "fa fa-medium"
         }
     ]
 }
