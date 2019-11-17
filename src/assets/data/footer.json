@@ -9,7 +9,7 @@
         },
         {
             "LinkName": "Become a Member",
-            "Link": "https://www.meetup.com/GDG-Jalandhar/"
+            "Link": "https://t.me/dsccgc"
         }
     ],
     "ChapterResourcesSession": [{
@@ -21,8 +21,8 @@
             "Link": "mailto:dsc.cgc.coe@gmail.com"
         },
         {
-            "LinkName": "Media Kit",
-            "Link": "https://drive.google.com/drive/folders/1t1p5V8hH5Kwn3qBKgsmTxcsN3eJEeM74"
+            "LinkName": "Projects",
+            "Link": "https://github.com/DSC-CGC"
         }
     ],
     "DevConsole": [{
@@ -51,8 +51,8 @@
             "Link": "https://www.instagram.com/dsccgc/"
         },
         {
-            "LinkName": "Telegram",
-            "Link": "https://t.me/dsccgc"
+            "LinkName": "Medium",
+            "Link": "https://medium.com/dsc-cgc"
         },
         {
             "LinkName": "Twitter",
